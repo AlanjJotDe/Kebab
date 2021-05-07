@@ -16,5 +16,12 @@ text-align: center;
   .keba {
     font-family: 'Freckle Face', cursive;
 text-align: center;
-text-size-adjust: 20px;
+  }
+
+  .dol {
+    font-family: 'Poppins', sans-serif;
+text-align: left;
+width: 1889px;
+height: 120px;
+
   }
